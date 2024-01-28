@@ -1,1 +1,3 @@
-# Inventory_Management_System
+# Inventory Management System
+<p>Welcome to the Inventory Management System (IMS) - a Python-based project designed to streamline and optimize inventory tracking for businesses of all sizes. This repository houses a robust and user-friendly system that allows you to efficiently manage your stock, track product movements, and generate insightful reports. With a focus on simplicity and scalability, IMS is built using Python, providing a customizable solution for your inventory management needs. Whether you're a small business looking to enhance efficiency or a larger enterprise seeking a flexible inventory solution, IMS has got you covered. Explore the code, contribute, and elevate your inventory management processes with this powerful Python project.</p>
+<img width="861" alt="Screenshot 2024-01-28 at 4 52 53 PM" src="https://github.com/Krish18Joshi/Inventory_Management_System/assets/99706585/f1d6f3b9-29b5-434b-93c7-a81551e4d0eb">
